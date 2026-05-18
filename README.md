@@ -143,7 +143,7 @@ voice-document-agent/
 
 ## Requirements
 
-- macOS / Linux (tested on Apple M5, 16GB RAM)
+- macOS / Linux 
 - Python 3.11+
 - Ollama
 - Chrome (for voice features)
